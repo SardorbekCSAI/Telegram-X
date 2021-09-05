@@ -1,0 +1,19 @@
+{
+  "name": "telegram-x-syorqulov",
+  "version": "1.0.0",
+  "description": "Telegram",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SardorbekCSAI/Telegram-X.git"
+  },
+  "author": "SardorbekYorqulov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SardorbekCSAI/Telegram-X/issues"
+  },
+  "homepage": "https://github.com/SardorbekCSAI/Telegram-X#readme"
+}
